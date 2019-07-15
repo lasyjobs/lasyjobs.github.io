@@ -1,6 +1,6 @@
 # Site settings
-title: lasy Blog
-SEOTitle: 子夜 | lasy jobs
+title: Lasy Jobs
+SEOTitle: 子夜博客 | lasy jobs
 header-img: img/post-bg-desk.jpg
 email: lasyjobs@live.com
 description: "lasy jobs"
@@ -11,8 +11,7 @@ github_repo: "https://github.com/lasyjobs/lasyjobs.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "印象笔记印象大使"
-sidebar-about-description: "幕布达人"
+sidebar-about-description: "印象笔记印象大使","幕布达人"
 sidebar-avatar: /img/首页右侧展示头像.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
